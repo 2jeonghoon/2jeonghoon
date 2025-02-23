@@ -21,9 +21,12 @@
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 
-<h3 align = "left"><b>Portpolio</b></h3>
+<h3 align="left"><b>Portfolio</b></h3>
 <p align="left">
-Being in renewal
+  Being Renewal .. </br>
+  <a href="https://2jeonghoon.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 <!--
 <a href="https://www.notion.so/Junghoon-Lee-663140efe47d41a4b31111cdc2e18e50"><img src="https://camo.githubusercontent.com/7b52987348ec07a88dfcf2604277007919a82e7e9ee1577dba51b3b5e4c6c273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d6666666666663f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d626c61636b266c696e6b3d68747470733a2f2f7777772e6e6f74696f6e2e736f2f47656f6e2d4c65652d3061326561643830376563323437393162356637356135643039373466636138"/></a>
