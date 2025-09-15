@@ -23,10 +23,11 @@
 
 <h3 align="left"><b>Portfolio</b></h3>
 <p align="left">
-  Being Renewal .. </br>
+ <!-- Being Renewal .. </br>
   <a href="https://2jeonghoon.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
+  -->
 <a href="https://www.notion.so/Junghoon-Lee-663140efe47d41a4b31111cdc2e18e50">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/></a>
 </p>
