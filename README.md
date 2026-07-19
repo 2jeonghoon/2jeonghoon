@@ -2,11 +2,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=2jeonghoon&show_icons=true&theme=tokyonight" style="display: block; margin-left: auto; margin-right: auto;" />
 </div>
 
-<h3 align="left"><b>Contact</b></h3>
-<p align="left">
-<a href="mailto:"2jh0926@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:2jh0926@naver.com"/></a>
-</p>
-
 <!--
 **2jeonghoon/2jeonghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
